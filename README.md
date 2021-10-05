@@ -14,10 +14,6 @@
 
   -Landaverde Abrego	Kevin Alejandro (LA211580)
 
-  -López Alvarado	Roberto Rodrigo	(LA203000)
-
-  -Zaldaña Álvarez	Francisco Javier	(ZA210751)
-  
   
 **5) Script de la base de datos**
 
