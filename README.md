@@ -13,9 +13,8 @@
   -Fonseca Guandique Juan José	(FG203030)
 
   -Landaverde Abrego	Kevin Alejandro (LA211580)
-
   
-**5) Script de la base de datos**
 
+**2) PDF del proyecto**
 
-**5) PDF del proyecto**
+[Proyecto_MDB.pdf](https://github.com/Carlos-Alvarenga721/Proyecto-MDB-G05T/files/7282532/Proyecto_MDB.pdf)
